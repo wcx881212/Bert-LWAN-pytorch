@@ -4,7 +4,7 @@ The model architecture is referrenced on CAML which is from paper *Explainable P
 
 the result is:
 
-|mertric      |pytorch version      |tensorflow version      |the result of the paper      |
+|mertric      |pytorch version      |tensorflow version (origin code) |the result of the paper      |
 | ---------- | ---------- | ---------- | ---------- |
 | Harmony | RP@5: 0.784 nDCG@5: 0.810 | RP@5: 0.781 nDCG@5: 0.805 | RP@5: 0.803 nDCG@5: 0.829 |
 | Frequent | RP@5: 0.822 nDCG@5: 0.832 | RP@5: 0.821 nDCG@5: 0.830 | RP@5: 0.843 nDCG@5: 0.854 |
